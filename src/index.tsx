@@ -117,9 +117,9 @@ ReactDOM.render(
     {/* TODO: Mainnet, not alfajores */}
     <ContractKitProvider
       dapp={{
-        name: 'Ubeswap',
+        name: 'CorePad',
         description:
-          'The interface for Ubeswap, a decentralized exchange and automated market maker protocol for Celo assets.',
+          'The interface for CorePad, a decentralized exchange and automated market maker protocol for CORE assets.',
         url: 'https://app.ubeswap.org',
         icon: 'https://info.ubeswap.org/favicon.png',
       }}
